@@ -1,2 +1,2 @@
 # Mrk-Demo
-this is a github demo class
+this is a demo github class.
